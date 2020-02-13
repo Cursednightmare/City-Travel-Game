@@ -1,6 +1,6 @@
 import random
 import sys
-import os
+import osikytretykuikyefwtyiltres
 GAME_OVER = False
 GAME_TYPE=""
 os.system('clear')
